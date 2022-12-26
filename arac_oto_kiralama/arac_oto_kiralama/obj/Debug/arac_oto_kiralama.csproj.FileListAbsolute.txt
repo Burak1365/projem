@@ -1,0 +1,14 @@
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.csproj.AssemblyReference.cache
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.csproj.SuggestedBindingRedirects.cache
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.Form1.resources
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.Properties.Resources.resources
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.csproj.GenerateResource.cache
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.csproj.CoreCompileInputs.cache
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\bin\Debug\arac_oto_kiralama.exe.config
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\bin\Debug\arac_oto_kiralama.exe
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\bin\Debug\arac_oto_kiralama.pdb
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.exe
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.pdb
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.kiralama_sayfası.resources
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.kullanıcı_sformu.resources
+C:\Users\samet taş\Desktop\arac_oto_kiralama\arac_oto_kiralama\obj\Debug\arac_oto_kiralama.ÜYE.resources
